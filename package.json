@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "github:discordjs/voice",
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
